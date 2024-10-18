@@ -11,6 +11,10 @@ sources.
 - Allows users to read the full article in a Detail Page
 
 ## Screenshots
+- App Image when fetching complete response from server.
+![Screenshot_20241018_234543](https://github.com/user-attachments/assets/e3f517b3-e1a4-4bcc-815a-d1ead2864630)
+![Screenshot_20241018_234521](https://github.com/user-attachments/assets/7930326c-afc2-442d-af61-34f2e3443ca5)
+
 - App Image since image and description is null from the API. Using a placeholder icon
 
 ![Screenshot_20241018_101328](https://github.com/user-attachments/assets/0aefed84-6f94-4461-83b4-ec2fb083962f)
