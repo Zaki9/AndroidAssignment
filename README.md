@@ -11,6 +11,9 @@ sources.
 - Allows users to read the full article in a Detail Page
 
 ## Screenshots
+![Screenshot_20241018_101328](https://github.com/user-attachments/assets/0aefed84-6f94-4461-83b4-ec2fb083962f)
+![Screenshot_20241018_101346](https://github.com/user-attachments/assets/ae6bda15-9609-44a0-8ee9-f02b0d207f91)
+
 
 ## Getting Started
 
